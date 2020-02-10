@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hagenbrandt/quiz-app-oop/issues"
   },
-  "homepage": "https://github.com/hagenbrandt/quiz-app-oop#readme"
+  "homepage": "https://github.com/hagenbrandt/quiz-app-oop#readme",
+  "dependencies": {
+    "parcel-bundler": "1.12.4"
+  }
 }
