@@ -1,0 +1,19 @@
+{
+  "name": "quiz-app-oop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagenbrandt/quiz-app-oop.git"
+  },
+  "author": "Hagen Brandt <hagen-brandt@web.de>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hagenbrandt/quiz-app-oop/issues"
+  },
+  "homepage": "https://github.com/hagenbrandt/quiz-app-oop#readme"
+}
